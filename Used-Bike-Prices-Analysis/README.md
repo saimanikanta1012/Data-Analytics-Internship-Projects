@@ -81,7 +81,6 @@ Key analyses performed:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
