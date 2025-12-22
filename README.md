@@ -67,4 +67,4 @@ The project studies industry demand, company size, location distribution, and co
 
 ## 👤 Author
 **Sai Manikanta Tippana**  
-Aspiring Data Analyst
+
