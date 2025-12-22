@@ -67,6 +67,6 @@ The project studies industry demand, company size, location distribution, and co
 
 ## 👤 Author
 **Sai Manikanta Tippana**
-Email: saitippana102002@gmail.com
-Phone No: 9989247191
+**Email: saitippana102002@gmail.com**
+**Phone No: 9989247191**
 
